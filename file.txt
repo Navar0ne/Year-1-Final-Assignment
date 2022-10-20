@@ -1,0 +1,4 @@
+Hi my name is Zairul Mazwan
+I am a Cybersecurity student at Sheffield Hallam University
+I like programming
+I learn Python in the Programming Fundamentals module
